@@ -1,0 +1,27 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+.conda/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Streamlit Cache & Local Secrets
+.streamlit/credentials.toml
+.streamlit/secrets.toml
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files & Logs
+*.log
+*.tmp
